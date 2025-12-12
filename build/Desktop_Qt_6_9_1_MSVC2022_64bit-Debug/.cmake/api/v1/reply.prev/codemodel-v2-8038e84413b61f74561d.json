@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-c60ea42001d8c4ab9c7a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "OnlienMusicWidget",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "OnlienMusicWidget::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-OnlienMusicWidget-Debug-4ac21bf106bb2324f160.json",
+					"name" : "OnlienMusicWidget",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "OnlienMusicWidget_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-OnlienMusicWidget_autogen-Debug-7f53e3086ab31d8e76cc.json",
+					"name" : "OnlienMusicWidget_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "OnlienMusicWidget_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-OnlienMusicWidget_autogen_timestamp_deps-Debug-7d227ea355080ba6b5fb.json",
+					"name" : "OnlienMusicWidget_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/QTproject/OnlienMusicWidget/build/Desktop_Qt_6_9_1_MSVC2022_64bit-Debug",
+		"source" : "D:/QTproject/OnlienMusicWidget"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
